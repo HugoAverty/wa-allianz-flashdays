@@ -7172,7 +7172,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"tilesets\/Settings\/Set_Special_Zones.png",
+         "image":"..\/tilesets\/Settings\/Set_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -7195,7 +7195,7 @@
         {
          "columns":13,
          "firstgid":13,
-         "image":"tilesets\/Settings\/Set_User_Interface.png",
+         "image":"..\/tilesets\/Settings\/Set_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
          "margin":0,
@@ -7208,7 +7208,7 @@
         {
          "columns":210,
          "firstgid":286,
-         "image":"tilesets\/LimZu\/Anm_LimZ_Interior.png",
+         "image":"..\/tilesets\/LimZu\/Anm_LimZ_Interior.png",
          "imageheight":23136,
          "imagewidth":6720,
          "margin":0,
@@ -9901,7 +9901,7 @@
         {
          "columns":16,
          "firstgid":152116,
-         "image":"tilesets\/LimZu\/LimZ_Art.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Art.png",
          "imageheight":224,
          "imagewidth":512,
          "margin":0,
@@ -9915,7 +9915,7 @@
         {
          "columns":16,
          "firstgid":152228,
-         "image":"tilesets\/LimZu\/LimZ_Basement.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Basement.png",
          "imageheight":1600,
          "imagewidth":512,
          "margin":0,
@@ -9962,7 +9962,7 @@
         {
          "columns":16,
          "firstgid":153028,
-         "image":"tilesets\/LimZu\/LimZ_Bathroom.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Bathroom.png",
          "imageheight":1792,
          "imagewidth":512,
          "margin":0,
@@ -9976,7 +9976,7 @@
         {
          "columns":16,
          "firstgid":153924,
-         "image":"tilesets\/LimZu\/LimZ_Bedroom.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Bedroom.png",
          "imageheight":3424,
          "imagewidth":512,
          "margin":0,
@@ -9990,7 +9990,7 @@
         {
          "columns":12,
          "firstgid":155636,
-         "image":"tilesets\/LimZu\/LimZ_Birthday_party.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Birthday_party.png",
          "imageheight":224,
          "imagewidth":384,
          "margin":0,
@@ -10004,7 +10004,7 @@
         {
          "columns":16,
          "firstgid":155720,
-         "image":"tilesets\/LimZu\/LimZ_Christmas.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Christmas.png",
          "imageheight":544,
          "imagewidth":512,
          "margin":0,
@@ -10018,7 +10018,7 @@
         {
          "columns":16,
          "firstgid":155992,
-         "image":"tilesets\/LimZu\/LimZ_Classroom_and_library.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Classroom_and_library.png",
          "imageheight":1088,
          "imagewidth":512,
          "margin":0,
@@ -10032,7 +10032,7 @@
         {
          "columns":16,
          "firstgid":156536,
-         "image":"tilesets\/LimZu\/LimZ_Clothing_Store.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Clothing_Store.png",
          "imageheight":2144,
          "imagewidth":512,
          "margin":0,
@@ -10046,7 +10046,7 @@
         {
          "columns":16,
          "firstgid":157608,
-         "image":"tilesets\/LimZu\/LimZ_Condominium.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Condominium.png",
          "imageheight":608,
          "imagewidth":512,
          "margin":0,
@@ -10060,7 +10060,7 @@
         {
          "columns":16,
          "firstgid":157912,
-         "image":"tilesets\/LimZu\/LimZ_Conference_Hall.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Conference_Hall.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -10074,7 +10074,7 @@
         {
          "columns":176,
          "firstgid":158104,
-         "image":"tilesets\/LimZu\/LimZ_Exterior.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Exterior.png",
          "imageheight":6624,
          "imagewidth":5632,
          "margin":0,
@@ -10153,7 +10153,7 @@
         {
          "columns":16,
          "firstgid":194536,
-         "image":"tilesets\/LimZu\/LimZ_Fishing.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Fishing.png",
          "imageheight":864,
          "imagewidth":512,
          "margin":0,
@@ -10167,7 +10167,7 @@
         {
          "columns":16,
          "firstgid":194968,
-         "image":"tilesets\/LimZu\/LimZ_Generic.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Generic.png",
          "imageheight":2496,
          "imagewidth":512,
          "margin":0,
@@ -10181,7 +10181,7 @@
         {
          "columns":16,
          "firstgid":196216,
-         "image":"tilesets\/LimZu\/LimZ_Grocery_store.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Grocery_store.png",
          "imageheight":2496,
          "imagewidth":512,
          "margin":0,
@@ -10195,7 +10195,7 @@
         {
          "columns":16,
          "firstgid":197464,
-         "image":"tilesets\/LimZu\/LimZ_Gym.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Gym.png",
          "imageheight":1056,
          "imagewidth":512,
          "margin":0,
@@ -10511,7 +10511,7 @@
         {
          "columns":16,
          "firstgid":197992,
-         "image":"tilesets\/LimZu\/LimZ_Halloween.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Halloween.png",
          "imageheight":1952,
          "imagewidth":512,
          "margin":0,
@@ -10525,7 +10525,7 @@
         {
          "columns":16,
          "firstgid":198968,
-         "image":"tilesets\/LimZu\/LimZ_Hospital.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Hospital.png",
          "imageheight":3520,
          "imagewidth":512,
          "margin":0,
@@ -10539,7 +10539,7 @@
         {
          "columns":16,
          "firstgid":200728,
-         "image":"tilesets\/LimZu\/LimZ_Ice_Cream_Shop.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Ice_Cream_Shop.png",
          "imageheight":544,
          "imagewidth":512,
          "margin":0,
@@ -10553,7 +10553,7 @@
         {
          "columns":16,
          "firstgid":201000,
-         "image":"tilesets\/LimZu\/LimZ_Jail.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Jail.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
@@ -10567,7 +10567,7 @@
         {
          "columns":16,
          "firstgid":201720,
-         "image":"tilesets\/LimZu\/LimZ_Japanese_interiors.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Japanese_interiors.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -10581,7 +10581,7 @@
         {
          "columns":16,
          "firstgid":202232,
-         "image":"tilesets\/LimZu\/LimZ_Kitchen.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Kitchen.png",
          "imageheight":1568,
          "imagewidth":512,
          "margin":0,
@@ -10595,7 +10595,7 @@
         {
          "columns":16,
          "firstgid":203016,
-         "image":"tilesets\/LimZu\/LimZ_LivingRoom.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_LivingRoom.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
@@ -10609,7 +10609,7 @@
         {
          "columns":16,
          "firstgid":203736,
-         "image":"tilesets\/LimZu\/LimZ_Museum.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Museum.png",
          "imageheight":3904,
          "imagewidth":512,
          "margin":0,
@@ -10623,7 +10623,7 @@
         {
          "columns":16,
          "firstgid":205688,
-         "image":"tilesets\/LimZu\/LimZ_Music_and_sport.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Music_and_sport.png",
          "imageheight":1536,
          "imagewidth":512,
          "margin":0,
@@ -10637,7 +10637,7 @@
         {
          "columns":16,
          "firstgid":206456,
-         "image":"tilesets\/LimZu\/LimZ_Office.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Office.png",
          "imageheight":1696,
          "imagewidth":512,
          "margin":0,
@@ -10651,7 +10651,7 @@
         {
          "columns":16,
          "firstgid":207304,
-         "image":"tilesets\/LimZu\/LimZ_Shooting_Range.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Shooting_Range.png",
          "imageheight":160,
          "imagewidth":512,
          "margin":0,
@@ -10665,7 +10665,7 @@
         {
          "columns":16,
          "firstgid":207384,
-         "image":"tilesets\/LimZu\/LimZ_Television_and_Film_Studio.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Television_and_Film_Studio.png",
          "imageheight":448,
          "imagewidth":512,
          "margin":0,
@@ -10679,7 +10679,7 @@
         {
          "columns":16,
          "firstgid":207608,
-         "image":"tilesets\/LimZu\/LimZ_Wall-Floor-2.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Wall-Floor-2.png",
          "imageheight":448,
          "imagewidth":512,
          "margin":0,
@@ -10693,7 +10693,7 @@
         {
          "columns":76,
          "firstgid":207832,
-         "image":"tilesets\/LimZu\/LimZ_Wall-Floor.png",
+         "image":"..\/tilesets\/LimZu\/LimZ_Wall-Floor.png",
          "imageheight":3488,
          "imagewidth":2432,
          "margin":0,
@@ -10773,7 +10773,7 @@
         {
          "columns":64,
          "firstgid":216116,
-         "image":"tilesets\/Settings\/Set_Zones.png",
+         "image":"..\/tilesets\/Settings\/Set_Zones.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -16316,7 +16316,7 @@
         {
          "columns":64,
          "firstgid":220212,
-         "image":"tilesets\/Settings\/Set_Icons.png",
+         "image":"..\/tilesets\/Settings\/Set_Icons.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -16395,7 +16395,7 @@
         {
          "columns":80,
          "firstgid":224308,
-         "image":"tilesets\/LimZu\/Anm_LimZ_Exterior.png",
+         "image":"..\/tilesets\/LimZu\/Anm_LimZ_Exterior.png",
          "imageheight":6592,
          "imagewidth":2560,
          "margin":0,
@@ -21095,7 +21095,7 @@
         {
          "columns":80,
          "firstgid":240788,
-         "image":"tilesets\/Nekura\/Neku_Deco e 1.png",
+         "image":"..\/tilesets\/Nekura\/Neku_Deco e 1.png",
          "imageheight":2304,
          "imagewidth":2560,
          "margin":0,
@@ -21108,7 +21108,7 @@
         {
          "columns":28,
          "firstgid":246548,
-         "image":"tilesets\/Nekura\/Neku_Floor and water 1.png",
+         "image":"..\/tilesets\/Nekura\/Neku_Floor and water 1.png",
          "imageheight":960,
          "imagewidth":896,
          "margin":0,
@@ -21121,7 +21121,7 @@
         {
          "columns":30,
          "firstgid":247388,
-         "image":"tilesets\/Nekura\/Neku_Floor and water 2.png",
+         "image":"..\/tilesets\/Nekura\/Neku_Floor and water 2.png",
          "imageheight":960,
          "imagewidth":960,
          "margin":0,
@@ -21199,7 +21199,7 @@
         {
          "columns":64,
          "firstgid":248288,
-         "image":"tilesets\/Nekura\/Neku_jungle1.png",
+         "image":"..\/tilesets\/Nekura\/Neku_jungle1.png",
          "imageheight":1824,
          "imagewidth":2048,
          "margin":0,
@@ -21212,7 +21212,7 @@
         {
          "columns":56,
          "firstgid":251936,
-         "image":"tilesets\/Nekura\/Neku_jungle2.png",
+         "image":"..\/tilesets\/Nekura\/Neku_jungle2.png",
          "imageheight":448,
          "imagewidth":1792,
          "margin":0,
@@ -21418,7 +21418,7 @@
         {
          "columns":64,
          "firstgid":252720,
-         "image":"tilesets\/Nekura\/Neku_mid_Floor-Deco.png",
+         "image":"..\/tilesets\/Nekura\/Neku_mid_Floor-Deco.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -21431,7 +21431,7 @@
         {
          "columns":56,
          "firstgid":256816,
-         "image":"tilesets\/Nekura\/Neku_mid_Houses.png",
+         "image":"..\/tilesets\/Nekura\/Neku_mid_Houses.png",
          "imageheight":1568,
          "imagewidth":1792,
          "margin":0,
@@ -21444,7 +21444,7 @@
         {
          "columns":63,
          "firstgid":259560,
-         "image":"tilesets\/Nekura\/Neku_mid_Inside-Floor.png",
+         "image":"..\/tilesets\/Nekura\/Neku_mid_Inside-Floor.png",
          "imageheight":2016,
          "imagewidth":2016,
          "margin":0,
@@ -21457,7 +21457,7 @@
         {
          "columns":22,
          "firstgid":263529,
-         "image":"tilesets\/Nekura\/Neku_mid_Inside-Wall.png",
+         "image":"..\/tilesets\/Nekura\/Neku_mid_Inside-Wall.png",
          "imageheight":1664,
          "imagewidth":704,
          "margin":0,
@@ -21470,7 +21470,7 @@
         {
          "columns":18,
          "firstgid":264673,
-         "image":"tilesets\/Nekura\/Neku_mid_Wall-Black.png",
+         "image":"..\/tilesets\/Nekura\/Neku_mid_Wall-Black.png",
          "imageheight":480,
          "imagewidth":576,
          "margin":0,
@@ -21483,7 +21483,7 @@
         {
          "columns":64,
          "firstgid":264943,
-         "image":"tilesets\/Nekura\/Neku_mid_Water.png",
+         "image":"..\/tilesets\/Nekura\/Neku_mid_Water.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -21888,7 +21888,7 @@
         {
          "columns":40,
          "firstgid":269039,
-         "image":"tilesets\/Nekura\/Neku_Trees and flowers.png",
+         "image":"..\/tilesets\/Nekura\/Neku_Trees and flowers.png",
          "imageheight":896,
          "imagewidth":1280,
          "margin":0,
@@ -21901,7 +21901,7 @@
         {
          "columns":26,
          "firstgid":270159,
-         "image":"tilesets\/Nekura\/Neku_Floor-Deco-2.png",
+         "image":"..\/tilesets\/Nekura\/Neku_Floor-Deco-2.png",
          "imageheight":896,
          "imagewidth":832,
          "margin":0,
@@ -21914,7 +21914,7 @@
         {
          "columns":66,
          "firstgid":270887,
-         "image":"tilesets\/Nekura\/Neku_Windows.png",
+         "image":"..\/tilesets\/Nekura\/Neku_Windows.png",
          "imageheight":1536,
          "imagewidth":2112,
          "margin":0,
@@ -22288,7 +22288,7 @@
         {
          "columns":64,
          "firstgid":274055,
-         "image":"tilesets\/Custom-Allianz.png",
+         "image":"..\/tilesets\/Custom-Allianz.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -23502,7 +23502,7 @@
         {
          "columns":22,
          "firstgid":278151,
-         "image":"tilesets\/Nekura\/Neku_Floor.png",
+         "image":"..\/tilesets\/Nekura\/Neku_Floor.png",
          "imageheight":512,
          "imagewidth":704,
          "margin":0,
@@ -23581,7 +23581,7 @@
         {
          "columns":16,
          "firstgid":278503,
-         "image":"tilesets\/F_Computers_2.png",
+         "image":"..\/tilesets\/F_Computers_2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -23594,7 +23594,7 @@
         {
          "columns":16,
          "firstgid":278759,
-         "image":"tilesets\/F_Deco_1.png",
+         "image":"..\/tilesets\/F_Deco_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -23607,7 +23607,7 @@
         {
          "columns":56,
          "firstgid":279015,
-         "image":"tilesets\/LimZu\/Anm_Wind_Tower_1_32x32.png",
+         "image":"..\/tilesets\/LimZu\/Anm_Wind_Tower_1_32x32.png",
          "imageheight":320,
          "imagewidth":1792,
          "margin":0,
@@ -26141,7 +26141,7 @@
         {
          "columns":24,
          "firstgid":279575,
-         "image":"tilesets\/Anm_Flag.png",
+         "image":"..\/tilesets\/Anm_Flag.png",
          "imageheight":288,
          "imagewidth":768,
          "margin":0,
@@ -27127,7 +27127,7 @@
         {
          "columns":16,
          "firstgid":279791,
-         "image":"tilesets\/MV Icons Keyboard - ALL.png",
+         "image":"..\/tilesets\/MV Icons Keyboard - ALL.png",
          "imageheight":448,
          "imagewidth":512,
          "margin":0,
