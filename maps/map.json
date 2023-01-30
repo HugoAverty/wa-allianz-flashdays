@@ -2750,7 +2750,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"",
+                 "class":"variable",
                  "height":0,
                  "id":32,
                  "name":"door_main",
