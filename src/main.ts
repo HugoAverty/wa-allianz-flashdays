@@ -7,6 +7,14 @@ console.log('Script started successfully');
 // Waiting for the API to be ready
 WA.onInit().then(() => {
 
+    for (let i = 1; i < 10; i++) {
+        WA.room.onEnterLayer('_Settings/zone_overlay_' + i).subscribe(() => {
+            WA.room.showLayer('Overlay/overlay_room_' + i);
+        })
+        WA.room.onLeaveLayer('_Settings/zone_overlay_' + i).subscribe(() => {
+            WA.room.hideLayer('Overlay/overlay_room_' + i);
+        })
+    }
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {
         console.log('Scripting API Extra ready');
