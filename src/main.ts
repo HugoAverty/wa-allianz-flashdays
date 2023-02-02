@@ -8,10 +8,10 @@ console.log('Script started successfully');
 WA.onInit().then(() => {
 
     for (let i = 1; i < 10; i++) {
-        WA.room.onEnterLayer('_Settings/zone_overlay_' + i).subscribe(() => {
+        WA.room.onEnterLayer('zone_overlay_' + i).subscribe(() => {
             WA.room.showLayer('overlay_room_' + i);
         })
-        WA.room.onLeaveLayer('_Settings/zone_overlay_' + i).subscribe(() => {
+        WA.room.onLeaveLayer('zone_overlay_' + i).subscribe(() => {
             WA.room.hideLayer('overlay_room_' + i);
         })
     }
