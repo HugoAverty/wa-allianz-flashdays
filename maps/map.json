@@ -456,6 +456,12 @@
          "id":94,
          "name":"exitEntretien",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"\/@\/allianz\/flashdays\/second#entryEntretien"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":120,
@@ -567,6 +573,12 @@
          "id":95,
          "name":"exitAuditorium",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"\/@\/allianz\/flashdays\/second#entryAuditorium"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":120,
@@ -678,6 +690,12 @@
          "id":96,
          "name":"entryAuditorium",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":120,
@@ -789,6 +807,12 @@
          "id":97,
          "name":"entryEntretien",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":120,
