@@ -4381,12 +4381,12 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"TODO"
+         "value":"Main map for Flashdays Allianz"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"TODO"
+         "value":"map.png"
         }, 
         {
          "name":"mapLink",
@@ -4396,7 +4396,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"TODO"
+         "value":"Main map Allianz Flashdays"
         }, 
         {
          "name":"script",

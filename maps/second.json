@@ -9141,12 +9141,12 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"TODO"
+         "value":"Second map for Flash days Allianz"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"TODO"
+         "value":"second.png"
         }, 
         {
          "name":"mapLink",
@@ -9156,7 +9156,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"TODO"
+         "value":"Second"
         }, 
         {
          "name":"script",
