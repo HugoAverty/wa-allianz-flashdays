@@ -3260,6 +3260,12 @@
                  "height":89.5,
                  "id":113,
                  "name":"url_accueil1",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{accueil1}}}"
+                        }],
                  "rotation":0,
                  "visible":true,
                  "width":136,
@@ -3271,6 +3277,12 @@
                  "height":97,
                  "id":114,
                  "name":"url_accueil2",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{accueil2}}}"
+                        }],
                  "rotation":0,
                  "visible":true,
                  "width":163.5,
@@ -3282,6 +3294,12 @@
                  "height":106.5,
                  "id":115,
                  "name":"url_accueil3",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{accueil3}}}"
+                        }],
                  "rotation":0,
                  "visible":true,
                  "width":158.5,
@@ -3293,6 +3311,12 @@
                  "height":96.5,
                  "id":116,
                  "name":"url_game1",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{game1}}}"
+                        }],
                  "rotation":0,
                  "visible":true,
                  "width":87.5,
@@ -3304,6 +3328,12 @@
                  "height":118.5,
                  "id":117,
                  "name":"url_game2",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{game2}}}"
+                        }],
                  "rotation":0,
                  "visible":true,
                  "width":100.5,
@@ -3315,6 +3345,12 @@
                  "height":121,
                  "id":118,
                  "name":"url_game3",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{game3}}}"
+                        }],
                  "rotation":0,
                  "visible":true,
                  "width":87,
@@ -3326,6 +3362,12 @@
                  "height":96,
                  "id":119,
                  "name":"url_rh1",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{rh1}}}"
+                        }],
                  "rotation":0,
                  "visible":true,
                  "width":105.5,
@@ -3337,6 +3379,12 @@
                  "height":102,
                  "id":120,
                  "name":"url_rh2",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{rh2}}}"
+                        }],
                  "rotation":0,
                  "visible":true,
                  "width":105.5,
@@ -3348,6 +3396,12 @@
                  "height":109.5,
                  "id":121,
                  "name":"url_rh3",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{rh3}}}"
+                        }],
                  "rotation":0,
                  "visible":true,
                  "width":101.5,
@@ -3359,6 +3413,12 @@
                  "height":112.666666666667,
                  "id":122,
                  "name":"url_inno1",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{inno1}}}"
+                        }],
                  "rotation":0,
                  "visible":true,
                  "width":164,
@@ -3370,6 +3430,12 @@
                  "height":101.333333333333,
                  "id":123,
                  "name":"url_inno2",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{inno2}}}"
+                        }],
                  "rotation":0,
                  "visible":true,
                  "width":137.333333333333,
@@ -3381,6 +3447,12 @@
                  "height":146.666666666667,
                  "id":124,
                  "name":"url_inno3",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{inno3}}}"
+                        }],
                  "rotation":0,
                  "visible":true,
                  "width":162,
@@ -3392,6 +3464,12 @@
                  "height":104.666666666667,
                  "id":125,
                  "name":"url_jo1",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{jo1}}}"
+                        }],
                  "rotation":0,
                  "visible":true,
                  "width":101.333333333333,
@@ -3403,6 +3481,12 @@
                  "height":112.666666666667,
                  "id":126,
                  "name":"url_jo2",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{jo2}}}"
+                        }],
                  "rotation":0,
                  "visible":true,
                  "width":116,
@@ -3414,6 +3498,12 @@
                  "height":114,
                  "id":127,
                  "name":"url_jo3",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{jo3}}}"
+                        }],
                  "rotation":0,
                  "visible":true,
                  "width":124.666666666667,
@@ -3425,6 +3515,12 @@
                  "height":107.5,
                  "id":128,
                  "name":"url_rse1",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{rse1}}}"
+                        }],
                  "rotation":0,
                  "visible":true,
                  "width":128.5,
@@ -3436,6 +3532,12 @@
                  "height":106.5,
                  "id":129,
                  "name":"url_rse2",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{rse2}}}"
+                        }],
                  "rotation":0,
                  "visible":true,
                  "width":137,
@@ -3447,6 +3549,12 @@
                  "height":90,
                  "id":130,
                  "name":"url_rse3",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{rse3}}}"
+                        }],
                  "rotation":0,
                  "visible":true,
                  "width":118.5,
