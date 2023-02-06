@@ -2732,7 +2732,7 @@
                 {
                  "name":"focusable",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"jitsiInterfaceConfig",
@@ -2856,7 +2856,7 @@
                 {
                  "name":"focusable",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"jitsiInterfaceConfig",
@@ -2980,7 +2980,7 @@
                 {
                  "name":"focusable",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"jitsiInterfaceConfig",
@@ -3104,7 +3104,7 @@
                 {
                  "name":"focusable",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"jitsiInterfaceConfig",
@@ -3228,7 +3228,7 @@
                 {
                  "name":"focusable",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"jitsiInterfaceConfig",
@@ -3352,7 +3352,7 @@
                 {
                  "name":"focusable",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"jitsiInterfaceConfig",
@@ -3476,7 +3476,7 @@
                 {
                  "name":"focusable",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"jitsiInterfaceConfig",
@@ -3600,7 +3600,7 @@
                 {
                  "name":"focusable",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"jitsiInterfaceConfig",
@@ -3724,7 +3724,7 @@
                 {
                  "name":"focusable",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"jitsiInterfaceConfig",
