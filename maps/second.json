@@ -2738,11 +2738,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi_1"
-                }, 
-                {
-                 "name":"zoom_margin",
-                 "type":"float",
-                 "value":1
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2852,11 +2847,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi_2"
-                }, 
-                {
-                 "name":"zoom_margin",
-                 "type":"float",
-                 "value":1
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2966,11 +2956,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi_3"
-                }, 
-                {
-                 "name":"zoom_margin",
-                 "type":"float",
-                 "value":1
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3080,11 +3065,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi_4"
-                }, 
-                {
-                 "name":"zoom_margin",
-                 "type":"float",
-                 "value":1
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3194,11 +3174,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi_5"
-                }, 
-                {
-                 "name":"zoom_margin",
-                 "type":"float",
-                 "value":1
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3308,11 +3283,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi_6"
-                }, 
-                {
-                 "name":"zoom_margin",
-                 "type":"float",
-                 "value":1
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3422,11 +3392,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi_7"
-                }, 
-                {
-                 "name":"zoom_margin",
-                 "type":"float",
-                 "value":1
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3536,11 +3501,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi_8"
-                }, 
-                {
-                 "name":"zoom_margin",
-                 "type":"float",
-                 "value":1
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3650,11 +3610,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi_9"
-                }, 
-                {
-                 "name":"zoom_margin",
-                 "type":"float",
-                 "value":1
                 }],
          "type":"tilelayer",
          "visible":true,
