@@ -2735,9 +2735,24 @@
                  "value":true
                 }, 
                 {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#002D80\" }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi_1"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"speaker"
+                }, 
+                {
+                 "name":"jitsiWidth",
+                 "type":"int",
+                 "value":90
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2844,9 +2859,24 @@
                  "value":true
                 }, 
                 {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#002D80\" }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi_2"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"speaker"
+                }, 
+                {
+                 "name":"jitsiWidth",
+                 "type":"int",
+                 "value":90
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2953,9 +2983,24 @@
                  "value":true
                 }, 
                 {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#002D80\" }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi_3"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"speaker"
+                }, 
+                {
+                 "name":"jitsiWidth",
+                 "type":"int",
+                 "value":90
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3062,9 +3107,24 @@
                  "value":true
                 }, 
                 {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#002D80\" }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi_4"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"speaker"
+                }, 
+                {
+                 "name":"jitsiWidth",
+                 "type":"int",
+                 "value":90
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3171,9 +3231,24 @@
                  "value":true
                 }, 
                 {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#002D80\" }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi_5"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"speaker"
+                }, 
+                {
+                 "name":"jitsiWidth",
+                 "type":"int",
+                 "value":90
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3280,9 +3355,24 @@
                  "value":true
                 }, 
                 {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#002D80\" }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi_6"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"speaker"
+                }, 
+                {
+                 "name":"jitsiWidth",
+                 "type":"int",
+                 "value":90
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3389,9 +3479,24 @@
                  "value":true
                 }, 
                 {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#002D80\" }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi_7"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"speaker"
+                }, 
+                {
+                 "name":"jitsiWidth",
+                 "type":"int",
+                 "value":90
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3498,9 +3603,24 @@
                  "value":true
                 }, 
                 {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#002D80\" }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi_8"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"speaker"
+                }, 
+                {
+                 "name":"jitsiWidth",
+                 "type":"int",
+                 "value":90
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3607,9 +3727,24 @@
                  "value":true
                 }, 
                 {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#002D80\" }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi_9"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"speaker"
+                }, 
+                {
+                 "name":"jitsiWidth",
+                 "type":"int",
+                 "value":90
                 }],
          "type":"tilelayer",
          "visible":true,
