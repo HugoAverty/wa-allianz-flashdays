@@ -3965,7 +3965,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"src\/sounds\/birds.mp3"
+                         "value":"..\/sounds\/birds.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
