@@ -2624,11 +2624,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi_main"
-                }, 
-                {
-                 "name":"zoom_margin",
-                 "type":"float",
-                 "value":1
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2732,7 +2727,7 @@
                 {
                  "name":"focusable",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"jitsiInterfaceConfig",
@@ -2856,7 +2851,7 @@
                 {
                  "name":"focusable",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"jitsiInterfaceConfig",
@@ -2980,7 +2975,7 @@
                 {
                  "name":"focusable",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"jitsiInterfaceConfig",
@@ -3104,7 +3099,7 @@
                 {
                  "name":"focusable",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"jitsiInterfaceConfig",
@@ -3228,7 +3223,7 @@
                 {
                  "name":"focusable",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"jitsiInterfaceConfig",
@@ -3352,7 +3347,7 @@
                 {
                  "name":"focusable",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"jitsiInterfaceConfig",
@@ -3476,7 +3471,7 @@
                 {
                  "name":"focusable",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"jitsiInterfaceConfig",
@@ -3600,7 +3595,7 @@
                 {
                  "name":"focusable",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"jitsiInterfaceConfig",
@@ -3724,7 +3719,7 @@
                 {
                  "name":"focusable",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"jitsiInterfaceConfig",
