@@ -3232,7 +3232,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{game3}}}"
                         }],
@@ -3349,7 +3349,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{rh1}}}"
                         }],
@@ -3817,7 +3817,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{inno2}}}"
                         }],
@@ -4168,7 +4168,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{jo2}}}"
                         }],
