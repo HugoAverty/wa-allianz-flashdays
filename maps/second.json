@@ -6490,6 +6490,12 @@
                  "y":1365
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"tag",
+                 "type":"string",
+                 "value":"admin"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
