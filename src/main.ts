@@ -7,7 +7,7 @@ console.log('Script started successfully');
 // Waiting for the API to be ready
 WA.onInit().then(() => {
 
-    for (let i = 1; i < 10; i++) {
+    for (let i = 1; i < 12; i++) {
         WA.room.onEnterLayer('zone_overlay_' + i).subscribe(() => {
             WA.room.showLayer('overlay_room_' + i);
         })
