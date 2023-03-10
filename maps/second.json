@@ -167,7 +167,7 @@
             0, 0, 0, 3, 0, 3, 0, 0, 0, 0, 3, 0, 0, 0, 2147483651, 0, 2147483651, 0, 0, 0, 0, 2147483651, 2147483651, 2147483651, 0, 0, 0, 0, 2147483651, 0, 3, 0, 0, 0, 0, 3, 0, 0, 0, 2147483651, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 2147483651, 0, 0,
             0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 2147483651, 0, 0, 0, 0, 0, 0, 2147483651, 2147483651, 2147483651, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 2147483651, 0, 0, 0, 3, 0, 0, 0, 0, 3, 0, 0, 0, 2147483651, 0, 0,
             0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 2147483651, 0, 3, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 2147483651, 3, 0,
-            3, 0, 0, 3, 0, 2147483651, 3, 3, 3, 3, 0, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2147483651, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 2147483651, 0, 0,
+            3, 0, 0, 3, 0, 2147483651, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2147483651, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 2147483651, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 2147483651, 2147483651, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147483651, 2147483651, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 2147483651, 0, 3,
             0, 0, 3, 3, 0, 0, 2147483651, 2147483651, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147483651, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 0, 0, 3, 3, 3, 2147483651, 0, 0,
             3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147483651, 2147483651, 0, 0,
@@ -193,7 +193,7 @@
          "name":"collisions",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -814,12 +814,12 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"autoOpen",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"doorVariable",
@@ -933,12 +933,12 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"autoOpen",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"doorVariable",
@@ -1052,12 +1052,12 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"autoOpen",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"doorVariable",
@@ -1171,12 +1171,12 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"autoOpen",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"doorVariable",
@@ -1290,12 +1290,12 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"autoOpen",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"doorVariable",
@@ -1409,12 +1409,12 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"autoOpen",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"doorVariable",
@@ -1528,12 +1528,12 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"autoOpen",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"doorVariable",
@@ -1647,12 +1647,12 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"autoOpen",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"doorVariable",
@@ -1766,12 +1766,12 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"autoOpen",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"doorVariable",
@@ -1885,12 +1885,12 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"autoOpen",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"doorVariable",
@@ -2004,12 +2004,12 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"autoOpen",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"doorVariable",
